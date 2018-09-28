@@ -1,1 +1,2 @@
 # Loan-Defaulter-Classification
+The best classifier among them will be logistic regression with Jaccard score of 0.800004 which is slightly better than the classifiers used which nearly gave the above accuracy such as SVM, K-nearest neighbor which also with some tweaking of k gave the accuracy around the same and decision tree with certain criteria for depth gave almost the same accuracy.My finding were with proper iteration each classifier was able to get the accuracy rate between 75% to 80% based on the accuracy scores for different alogorithms.
